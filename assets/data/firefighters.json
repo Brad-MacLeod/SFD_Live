@@ -2,45 +2,140 @@
 [
     {
         "name": "Brad MacLeod",
+        "section": "Chief",
         "rank": "Chief",
+        "priority": 1,
         "badge": "9",
         "joined": "2022-10-31",
         "picture": "BradleyMacLeod.jpg",
         "picture_alt": "BradleyMacLeod_alt.jpg"
     },
     {
+        "name": "Lee (Doc) O'Brien",
+        "section": "Chief",
+        "priority": 2,
+        "rank": "Deputy Chief"
+    },
+    {
+        "name": "David Bannister",
+        "rank": "Retired Chief",
+        "section": "Chief",
+        "priority": 3        
+    },
+    {
+        "name": "Wayne Kitchen",
+        "rank": "Retired Deputy Chief",
+        "section": "Chief",
+        "priority": 4 
+    },
+    {
         "name": "Brad Doucette",
         "rank": "Captain",
+        "section": "Captain",
+        "priority": 1,
         "badge": "",
-        "joined": "2022-10-31",
         "picture": "BradDoucette.jpg"
     },
     {
         "name": "Tim Dryden",
         "rank": "Captain",
+        "section": "Captain",
+        "priority": 1,
         "badge": "",
-        "joined": "2022-10-31",
         "picture": "TimDryden.jpg"
     },
     {
+        "name": "Kelly Beal",
+        "rank": "Captain",
+        "section": "Captain",
+        "badge": ""
+    },
+    {
+        "name": "Doug Hamer",
+        "rank": "Captain",
+        "section": "Captain",
+        "priority": 1,
+        "badge": ""
+    },
+    {
         "name": "Todd McNeil",
-        "rank": "Firefighter",
-        "badge": "",
-        "joined": "2022-10-31",
-        "picture": "_default.jpg"
+        "rank": "Firefighter"
     },
     {
         "name": "Abby Brewer",
-        "rank": "Firefighter",
-        "badge": "",
-        "joined": "2022-10-31",
-        "picture": "_default.jpg"
+        "rank": "Firefighter"
     },
     {
         "name": "Stephen Stevens",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Adam Perry",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Brandon Steeves",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Eric Poirier",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Jessica O'Dell",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Mike MacKillop",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Robert Biggs",
         "rank": "Firefighter",
-        "badge": "",
-        "joined": "2022-10-31",
-        "picture": "_default.jpg"
+        "section": "Firefighter"
+    },
+    {
+        "name": "Scott Thornton",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Sean Ring",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Taylor Wiseman",
+        "rank": "Firefighter"
+    },
+    {
+        "name": "Chris Kerr",
+        "rank": "Lieutenant",
+        "section": "Lieutenant"
+    },
+    {
+        "name": "Curtis O'Blenis",
+        "rank": "Lieutenant",
+        "section": "Lieutenant"
+    },
+    {
+        "name": "Loren Rutherford",
+        "rank": "Lieutenant",
+        "section": "Lieutenant"
+    },
+    {
+        "name": "Roy Steeves",
+        "rank": "Lieutenant",
+        "section": "Lieutenant"
+    },
+    {
+        "name": "David Hawkesworth",
+        "rank": "Chaplain",
+        "priority": 2        
+    },
+    {
+        "name": "Skyler O'Blenis",
+        "rank": "Junior Firefighter",
+        "priority": 2,
+        "section": "Firefighter"        
     }
+
 ]
